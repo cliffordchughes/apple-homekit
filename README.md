@@ -1,0 +1,2 @@
+# apple-homekit
+homekit setup
